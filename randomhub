@@ -26,6 +26,12 @@ local Routes = {
         PlaceId = 6938803436,
         Url = "https://vault.pandauth.com/vss/fb1a157584775706",
     },
+    {
+        Name = "Overrank",
+        UniverseId = 10768625919,
+        PlaceId = 96358181868914,
+        Url = "https://vault.pandauth.com/vss/3cc56eb33b565d66",
+    },
 }
 
 local KickUnsupported = true
